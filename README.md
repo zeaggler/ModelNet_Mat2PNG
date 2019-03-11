@@ -18,9 +18,8 @@ https://github.com/zeaggler/ModelNet_OFF2MAT
 
 * Modelnet_mat2png_singlefile.py
 
-  For single .MAT file,  you can run it directly to convert XX.mat to XX.png. Also, I uploaded two .MAT files to let it pass.
-
-  
+  For single voxelized .MAT file,  you can run it directly to convert XX.mat to XX.png. Also, I uploaded two .MAT files to let it pass.
+  ![avatar](https://github.com/zeaggler/ModelNet_Mat2PNG/blob/master/bathtub_0107_16.png)
 
 * Modelnet_mat2png_Modelnet10.py
 
